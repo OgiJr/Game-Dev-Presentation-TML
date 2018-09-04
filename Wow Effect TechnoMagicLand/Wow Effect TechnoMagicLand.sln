@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wow Effect TechnoMagicLand", "Wow Effect TechnoMagicLand.csproj", "{02A76625-AC26-3544-A57A-E485943586E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wow Effect TechnoMagicLand.Editor", "Wow Effect TechnoMagicLand.Editor.csproj", "{7D9F0661-462B-F27A-ECE0-209B90103F17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02A76625-AC26-3544-A57A-E485943586E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02A76625-AC26-3544-A57A-E485943586E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02A76625-AC26-3544-A57A-E485943586E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02A76625-AC26-3544-A57A-E485943586E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D9F0661-462B-F27A-ECE0-209B90103F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9F0661-462B-F27A-ECE0-209B90103F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9F0661-462B-F27A-ECE0-209B90103F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9F0661-462B-F27A-ECE0-209B90103F17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
